@@ -21,3 +21,14 @@ Short.args = {
     },
   ],
 };
+
+export const SmallSize = Template.bind({});
+SmallSize.args = {
+  users: Short.args.users,
+  size: 'small',
+};
+
+export const Loading = Template.bind({});
+Loading.args = {
+  loading: true,
+};
