@@ -2667,6 +2667,21 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
+"@kharioki/storybook-design-system@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@kharioki/storybook-design-system/-/storybook-design-system-0.1.1.tgz#97b718f643e5708f49ee32d287fb03f9a6243441"
+  integrity sha512-ApLf1PgDk49jn9wLN8IW4ZMLrWOeo84f5It/z2Cd+yD60/Sy8zcrbiSlhQWTQTeh8sPJj50iEG4RY36tQI4MGA==
+  dependencies:
+    "@testing-library/jest-dom" "^5.11.4"
+    "@testing-library/react" "^11.1.0"
+    "@testing-library/user-event" "^12.1.10"
+    polished "^4.1.1"
+    react "^17.0.1"
+    react-dom "^17.0.1"
+    react-scripts "4.0.3"
+    styled-components "^5.2.1"
+    web-vitals "^1.0.1"
+
 "@mdx-js/loader@^1.6.22":
   version "1.6.22"
   resolved "https://registry.yarnpkg.com/@mdx-js/loader/-/loader-1.6.22.tgz#d9e8fe7f8185ff13c9c8639c048b123e30d322c4"
